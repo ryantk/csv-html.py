@@ -2,6 +2,13 @@
 	------------------
    (c) Ryan Kendall 2011
 
+    ABOUT
+    =====
+
+This script was written for a University assignment, it is written in Python 3.
+The script is on github mainly to let me get to grips with using the github
+system (uploading etc).
+	
 
 	IMPORTANT
 	=========
