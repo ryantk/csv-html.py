@@ -1,6 +1,8 @@
 	CSV TO HTML README
 	------------------
    (c) Ryan Kendall 2011
+   
+   I like to leave this in here to see how much I have improved with my programming skills ;).
 
     ABOUT
     =====
